@@ -1,7 +1,6 @@
 class Solution(object):
     def isPalindrome(self, x):
-        """
-        Checks whether a string is a palindrome or not.
+        """Checks whether a string is a palindrome or not.
         
         :type x: int
         :rtype: bool
