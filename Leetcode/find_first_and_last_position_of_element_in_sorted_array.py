@@ -1,6 +1,5 @@
 def first_index(nums, target):
-        """
-        Searches for first time the target value occurs in sorted array, nums.
+        """Searches for first time the target value occurs in sorted array, nums.
         Returns its position in the sorted array on the left half.
         """
         i = -1
@@ -18,8 +17,7 @@ def first_index(nums, target):
         return i
     
 def second_index(nums, target):
-        """
-        Searches for second time the target value shows up in sorted array, nums.
+        """Searches for second time the target value shows up in sorted array, nums.
         Returns its position in the sarray on the right half.
         """
         i = -1
@@ -38,8 +36,7 @@ def second_index(nums, target):
     
 class Solution(object):
     def searchRange(self, nums, target):
-        """
-        Finds starting and ending position of target in sorted array, nums.
+        """Finds starting and ending position of target in sorted array, nums.
         Returns the two positions in an array of size 2.
         
         If not found, returns [-1, -1].
