@@ -1,6 +1,5 @@
 class Solution(object):
-    """
-    Returns true if any value appears at least twice in array, nums.
+    """Returns true if any value appears at least twice in array, nums.
     Otherwise, returns false.
     """
     def containsDuplicate(self, nums):
