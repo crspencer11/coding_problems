@@ -1,7 +1,6 @@
 class Solution(object):
     def search(self, nums, target):
-        """
-        Splits up an array, nums, in half multiple times
+        """Splits up an array, nums, in half multiple times
         until target number is eventually found.
         
         If it is not found, returns -1.
