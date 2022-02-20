@@ -1,7 +1,6 @@
 class Solution(object):
     def maxSubArray(self, nums):
-        """
-        Finds contiguous subarray within array, nums, where sum of subarray is
+        """Finds contiguous subarray within array, nums, where sum of subarray is
         largest possible out of all other contiguous subarrays.
         
         :type nums: List[int]
