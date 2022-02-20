@@ -1,7 +1,6 @@
 class Solution(object):
     def findDuplicates(self, nums):
-        """
-        Returns the number(s) that occur at least twice in the given array, nums.
+        """Returns the number(s) that occur at least twice in the given array, nums.
         
         :type nums: List[int]
         :rtype: List[int]
