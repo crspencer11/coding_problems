@@ -1,7 +1,6 @@
 class Solution(object):
     def firstBadVersion(self, n):
-        """
-        Finds first instance of a bad version and returns it.
+        """Finds first instance of a bad version and returns it.
         
         :type n: int
         :rtype: int
