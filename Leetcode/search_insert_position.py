@@ -1,7 +1,6 @@
 class Solution(object):
     def searchInsert(self, nums, target):
-        """
-        Returns index of target number in sorted array, nums, if found.
+        """Returns index of target number in sorted array, nums, if found.
         Otherwise, return index where target would be located.
         
         :type nums: List[int]
